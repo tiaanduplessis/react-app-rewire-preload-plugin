@@ -1,0 +1,22 @@
+{
+  "name": "@tiaanduplessis/react-app-rewire-preload-plugin",
+  "description": "Add preload-webpack-plugin your react-app-rewired configuration",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "standard --fix index.js"
+  },
+  "dependencies": {
+    "preload-webpack-plugin": "3.0.0-beta.3"
+  },
+  "peerDependencies": {
+    "react-app-rewired": "^2"
+  },
+  "devDependencies": {
+    "standard": "^14.0.2"
+  }
+
+}
