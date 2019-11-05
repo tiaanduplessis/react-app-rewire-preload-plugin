@@ -1,6 +1,6 @@
 {
   "name": "@tiaanduplessis/react-app-rewire-preload-plugin",
-  "description": "Add preload-webpack-plugin your react-app-rewired configuration",
+  "description": "Add preload-webpack-plugin to your react-app-rewired configuration",
   "license": "MIT",
     "version": "1.0.0",
   "main": "index.js",
