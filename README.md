@@ -6,7 +6,7 @@
 [![package license](https://img.shields.io/npm/l/@tiaanduplessis/react-app-rewire-preload-plugin.svg?style=flat-square)](https://npmjs.org/package/@tiaanduplessis/react-app-rewire-preload-plugin)
 [![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-> Add [preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) your [react-app-rewired](https://github.com/timarney/react-app-rewired) configuration
+> Add [preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin) to your [react-app-rewired](https://github.com/timarney/react-app-rewired) configuration
 
 ## Table of Contents
 
