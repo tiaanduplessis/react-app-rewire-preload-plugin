@@ -8,7 +8,8 @@
     "index.js"
   ],
   "scripts": {
-    "lint": "standard --fix index.js"
+    "lint": "standard index.js test.js",
+    "test": "node test.js"
   },
   "dependencies": {
     "preload-webpack-plugin": "3.0.0-beta.4"
